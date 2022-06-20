@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/back_icon_white.xml" value="0.12" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/ic_baseline_send_24_black.xml" value="0.121" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/ic_baseline_thumb_up_alt_24_black.xml" value="0.1115" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/round_tab.xml" value="0.117" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable-v24/roundtab.xml" value="0.20555555555555555" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/gradient.xml" value="0.117" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1095" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.162" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.162" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1115" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1095" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1115" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/round_tab_beta.xml" value="0.1125" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/roundtab2.xml" value="0.117" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/drawable/user.xml" value="0.19166666666666668" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout-v23/fragment_add.xml" value="0.2625" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_comment_section.xml" value="0.22" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_email_not_verified.xml" value="0.10643115942028986" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_login.xml" value="0.1276595744680851" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_main2.xml" value="0.20425724637681159" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_profile_picture.xml" value="0.20199275362318841" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_profile_third_party.xml" value="0.2625" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/activity_reviews.xml" value="0.22" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/basic_list_item.xml" value="0.20425724637681159" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/comment_item_layout.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/discover_item_ayout.xml" value="0.1" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/discover_item_layout.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_add.xml" value="0.17844202898550723" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_attractions.xml" value="0.1" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_discover.xml" value="0.20969202898550723" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_maps.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/fragment_restaurants.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/layout/main_fragment.xml" value="0.20425724637681159" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/menu/profile_menu.xml" value="0.2625" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/menu/search_menu.xml" value="0.2" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.129" />
+        <entry key="..\:/android studio apps/VisitJamshedpur/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

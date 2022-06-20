@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Visit Jamshedpur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signout">SignOut</string>
+    <string name="lorem">Jamshedpur (/ˈdʒæmʃɛdpʊər/,[7] Hindi: [dʒəmˈʃeːdpʊr] (audio speaker iconlisten)) or Tatanagar is the largest and most populous city in Jharkhand and first planned industrial city in India.[8] It was ranked as the cleanest city of India in the year 2019.[9]  It was founded by Jamsetji Tata, founder of Tata Groups in the 1900s, and was named after him.[10] It was established in 1919.  Jamshedpur was ranked as the 13th cleanest city of India in 2020 by Swach Survekshan in 2020.[11] Jamshedpur was ranked the 7th cleanest city of India in 2010.[12] The city is also ranked as 2nd in India in terms of \'Quality of Life\'. Jamshedpur is the 84th fastest growing city in the world according to City Mayors Foundation.[13][14] It is the headquarters of the East Singhbhum district of Jharkhand and is the 36th – largest urban agglomeration. And 72nd largest city in India by population. Jamshedpur is situated in the southern end of the state of Jharkhand and is bordered by the states of Odisha and West Bengal. The average elevation of the city is 135 metres[24] while the range is from 129 m to 151 m.[25] Total geographical area of Jamshedpur is 224 km square.[26] Jamshedpur is primarily located in a hilly region and is surrounded by the Dalma Hills running from west to east and covered with dense forests. The other smaller hill ranges near the city are Ukam Hill and the Jadugoda-musabani hill range.[27] The city is also a part of the larger Chota Nagpur Plateau region. The region is formed of the sedimentary, metamorphic and igneous rocks belonging to the Dharwarian period. Jamshedpur is located at the confluence of Kharkai and Subarnarekha Rivers. Subarnarekha is the principal river of Jamshedpur, which flows from west to south-eastern part of the territory. Many small rivers, especially the tributaries, join the Subarnarekha river in this area. Kharkai flows from the south and joins the Subarnarekha river at a place called Domuhani. The two rivers are the major sources of drinking water and groundwater for the city. Several lakes of varying size are also located near the fringes of the city. The major of them being the Dimna lake located in between the Dalma range and the Sitarampur reservoir situated beside Kharkai river. It is also a major tourist spot in the region.[28] Both of them also act as reservoirs for drinking water in the city. The city falls under deciduous type of forest region and the green cover is estimated to be around 33% of the total land area.[29] The city falls under the Seismic Zone II region.[30] Jamshedpur has all the geographical features. Jamshedpur has many parks around it. Jubilee Park at Sakchi is the largest park in Jamshedpur. It was built by Jamshedji Tata, who got inspired by Vrindavanan Gardens of Mysore.</string>
+    <string name="my_profile">My Profile</string>
+    <string name="contributions">Contributions</string>
+    <string name="_0">0</string>
+    <string name="likes">Likes</string>
+    <string name="new_post">New Post</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="popular_places">Popular Places</string>
+    <string name="fetching_data">Fetching Data</string>
+    <string name="todo">TODO</string>
+    <string name="visitJamshdepurFolder">Visit Jamshedpur</string>
+    <string name="discover">Discover</string>
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+</resources>

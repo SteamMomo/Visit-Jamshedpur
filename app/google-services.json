@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "775833077180",
+    "project_id": "jamshedpur-tour-guide-97dfa",
+    "storage_bucket": "jamshedpur-tour-guide-97dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775833077180:android:7a7cd97de19d48b79357b9",
+        "android_client_info": {
+          "package_name": "com.example.jamshedpurtourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775833077180-2t63d87dlvjknghjp6en56ftgg3mb4ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyIVJG8tF6a8Ts-5H-lVIg2q1gEIWx9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775833077180-2t63d87dlvjknghjp6en56ftgg3mb4ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775833077180:android:5c35db9ba27f2db39357b9",
+        "android_client_info": {
+          "package_name": "com.example.visitjamshedpur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775833077180-2t63d87dlvjknghjp6en56ftgg3mb4ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyIVJG8tF6a8Ts-5H-lVIg2q1gEIWx9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775833077180-2t63d87dlvjknghjp6en56ftgg3mb4ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
